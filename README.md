@@ -24,6 +24,9 @@
 
 ## Requirements
 ### General
-All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-You are not allowed to use global variables
-The prototypes of all your functions should be included in your header file called binary_trees.h
++ All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
++ You are not allowed to use global variables
++ The prototypes of all your functions should be included in your header file called binary_trees.h
+
+
++ Author:  Christian
