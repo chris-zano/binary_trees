@@ -29,4 +29,4 @@
 + The prototypes of all your functions should be included in your header file called binary_trees.h
 
 
-+ Author:  Christian
++ Author:  Christian Solomon
